@@ -42,7 +42,7 @@
 - [Telegram](https://t.me/empire_pc40)
 
 ### 🖼 Логотип Empire PC
-![Логотип Empire PC](images/empire-pc-logo.png)
+![Логотип Empire PC](https://sun9-38.vkuserphoto.ru/s/v1/ig2/0OLRzE3eATZQU1dqTSOLBZhjoNddw55sE3n1A1O8gCxqccruG-jUwcgb61BAgPK-kNtzFmfrSLRgEd-hAsSj_h_m.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1254x1254&from=bu&cs=1254x0)
 
 
 ## 🔗 Ссылки
